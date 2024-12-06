@@ -23,7 +23,7 @@ I enjoy diving into coding challenges, building projects, and exploring the ever
 ---
 
 ## 📫 Let's Connect!
-- 💌 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BB%D0%B5%D0%BA%D0%BE%D0%B2-216610334/) (add your profile link) or [email](mailto:ivanlekov05@gmail.com).  
+- 💌 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BB%D0%B5%D0%BA%D0%BE%D0%B2-216610334/)
 - 🌟 I’m open to collaborating on interesting projects and learning opportunities!  
 
 ---

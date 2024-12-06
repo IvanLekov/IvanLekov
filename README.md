@@ -1,16 +1,33 @@
-## Hi there 👋
+# 💻 Welcome to My GitHub Profile!
 
-<!--
-**IvanLekov/IvanLekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋  
+I'm a **first-year student** at **Technical University - Varna**, pursuing a degree in **Computer Software and Media Applications**. 🚀  
+I'm passionate about technology, driven to learn, and eager to improve my skills every day. 🌱  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills & Technologies
+- **Programming Languages:**  
+  - 🌐 C++, C#  
+  - 💻 HTML, CSS, JavaScript  
+
+I enjoy diving into coding challenges, building projects, and exploring the ever-expanding world of technology.
+
+---
+
+## 📈 Goals
+- 🌟 Master object-oriented programming and sharpen my problem-solving skills.  
+- 🚀 Build impactful projects that solve real-world problems.  
+- 📚 Continuously learn and stay updated with the latest tech trends.
+
+---
+
+## 📫 Let's Connect!
+- 💌 Feel free to reach out via [LinkedIn](#) (add your profile link) or [email](mailto:your-email@example.com).  
+- 🌟 I’m open to collaborating on interesting projects and learning opportunities!  
+
+---
+
+### "Passion and persistence are the keys to unlocking growth and innovation."  
+
+Thank you for visiting my GitHub profile! Let's create something amazing together! 🌟
